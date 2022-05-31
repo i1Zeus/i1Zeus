@@ -2,10 +2,5 @@
 - 👀 I’m interested in many many great things. 
 - 🌱 I’m currently learning CS...
 - 📫 How to reach me ...
-Instagram: @hxg.1
-Twitter: @_Ze_u_s_
-
-<!---
-i1Zeus/i1Zeus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Instagram: [@hxg.1](https://www.instagram.com/hxg.1/)
+Twitter: [@_Ze_u_s_](https://twitter.com/_Ze_u_s_)
