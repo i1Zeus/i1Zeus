@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?i1Zeus=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apii1Zeus=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m @i1Zeus
 - 👀 Interested in many many great things. 
 - 🌱 Currently learning CS...
