@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <p> -👋 Hi, I’m <b>Hussein Najah<b> <p>
 </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=i1Zeus&theme=onedark&background=000000&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)<br>
