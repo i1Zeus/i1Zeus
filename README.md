@@ -16,8 +16,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="VueJS" alt="VueJS" width="40" height="40"/>&nbsp;
 </div><br>
 <div align="center">
-  - 👀 Interested in many many great things<br>
+- 👀 Interested in many many great things<br>
 - 🌱 Currently learning <b>Computer Science</b>...<br>
 - 📫 How to reach me? Easy...👇🏼<br>
-  
 </div>
