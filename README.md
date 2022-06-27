@@ -22,6 +22,6 @@
 </br>
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=i1Zeus&theme=onedark_duo)](https://github.com/i1Zeus)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=i1Zeus&theme=onedark)](https://github.com/i1Zeus)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i1Zeus&layout=compact&theme=onedark)](https://github.com/i1Zeus)
