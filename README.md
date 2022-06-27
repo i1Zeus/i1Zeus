@@ -23,7 +23,7 @@
 </br>
  
  ## 📈 GitHub Stats 
-<p>
+<p class="justify-center">
   <img align="left" width="450" height="165" src="https://github-readme-stats.vercel.app/api?username=i1Zeus&theme=onedark"/>
  
   <img align="center" width="490" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i1Zeus&layout=compact&theme=onedark"/>
