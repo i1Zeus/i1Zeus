@@ -1,3 +1,4 @@
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/i1Zeus=DenverCoder1)](https://git.io/streak-stats)
 - 👋 Hi, I’m @i1Zeus
 - 👀 Interested in many many great things. 
 - 🌱 Currently learning CS...
