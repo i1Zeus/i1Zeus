@@ -23,7 +23,8 @@
 </br>
  
  ## 📈 GitHub Stats 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=i1Zeus&theme=onedark)](https://github.com/i1Zeus)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i1Zeus&layout=compact&theme=onedark)](https://github.com/i1Zeus)
+<p>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=i1Zeus&theme=onedark"/>
+ 
+  <img align="center" width="490" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i1Zeus&layout=compact&theme=onedark"/>
+</p>
