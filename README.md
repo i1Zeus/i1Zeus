@@ -18,7 +18,7 @@
 - 📫 How to reach me? Easy...👇🏼</br>
 <a href="https://www.linkedin.com/in/izeus6994"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Hussin | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/hxg.1/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Hussin | Instagram" width="21px"/></a>
-<a href="https://www.instagram.com/hxg.1/"><img align="center" src="[https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg](https://www.svgrepo.com/show/157815/twitter.svg)" alt="Hussin | Instagram" width="21px"/></a>
+<a href="https://www.instagram.com/hxg.1/"><img align="center" src="https://www.svgrepo.com/show/157815/twitter.svg" alt="Hussin | Instagram" width="21px"/></a>
 </div>
 </br>
  
