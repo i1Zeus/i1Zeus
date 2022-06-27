@@ -1,4 +1,3 @@
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=i1Zeus&theme=onedark_duo&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 - 👋 Hi, I’m @i1Zeus
 - 👀 Interested in many many great things. 
 - 🌱 Currently learning CS...
@@ -6,3 +5,11 @@
 - Instagram:[@hxg.1](https://www.instagram.com/hxg.1/)
 - Twitter:[@_Ze_u_s_](https://twitter.com/_Ze_u_s_)
 - Facebook:[Hussein Najah](https://www.facebook.com/iZeus01)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=i1Zeus&theme=onedark_duo&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
