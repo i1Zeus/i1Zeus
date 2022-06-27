@@ -2,9 +2,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <p> -👋 Hi, I’m <b>Hussein Najah</b> <p>
 </div>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=i1Zeus&theme=onedark&background=000000&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i1Zeus&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
@@ -21,6 +18,10 @@
 - 📫 How to reach me? Easy...👇🏼<br>
 <a href="www.linkedin.com/in/izeus6994"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Hussin | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/hxg.1/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Hussin | Instagram" width="21px"/></a>
-<a href="https://yushi95.medium.com/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
-
+<a href="https://yushi95.medium.com/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Hussin | Medium" width="21px"/></a>
 </div>
+## 📈 GitHub Stats 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=i1Zeus)](https://github.com/yushi1007)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i1Zeus&layout=compact)](https://github.com/yushi1007)
