@@ -24,7 +24,7 @@
  
  ## 📈 GitHub Stats 
 <p>
-  <img align="left" width="400" height="165" src="https://github-readme-stats.vercel.app/api?username=i1Zeus&theme=onedark"/>
+  <img align="left=0 top=0" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=i1Zeus&theme=onedark"/>
  
-  <img align="center" width="490" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i1Zeus&layout=compact&theme=onedark"/>
+  <img align="right=0 top=0" width="490" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i1Zeus&layout=compact&theme=onedark"/>
 </p>
