@@ -28,6 +28,5 @@
  ## 📈 GitHub Stats 
 <p>
   <img align="left" width="420" src="https://github-readme-stats.vercel.app/api?username=i1Zeus&theme=onedark"/>
- 
   <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i1Zeus&layout=compact&theme=onedark"/>
 </p>
