@@ -16,7 +16,7 @@
 
 </div></br>
 <div align="center">
-- 👀 Interested in many many great things</br>
+- 👀 Interested in many many great things...</br>
 - 🌱 Currently learning <b>Computer Science</b>...</br>
 - 📫 How to reach me? Easy...👇🏼</br>
 <a href="https://www.linkedin.com/in/izeus6994"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Hussin | LinkedIn" width="26"/></a>
