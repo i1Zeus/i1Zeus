@@ -1,5 +1,5 @@
 # 💫 About Me:
-ʟᴇᴀʀɴ ᴀꜱ ɪꜰ ʏᴏᴜ'ʟʟ ʟɪᴠᴇ ꜰᴏʀᴇᴠᴇʀ, ʟɪᴠᴇ ᴀꜱ ɪꜰ ʏᴏᴜ'ʟʟ ᴅɪᴇ ᴛᴏᴍᴏʀʀᴏᴡ.<br><br>Making the world a better place, one line of code at a time. When I'm not coding, you can find me dominating in the gaming world.
+ʟᴇᴀʀɴ ᴀꜱ ɪꜰ ʏᴏᴜ'ʟʟ ʟɪᴠᴇ ꜰᴏʀᴇᴠᴇʀ, ʟɪᴠᴇ ᴀꜱ ɪꜰ ʏᴏᴜ'ʟʟ ᴅɪᴇ ᴛᴏᴍᴏʀʀᴏᴡ.</br></br>Making the world a better place, one line of code at a time. When I'm not coding, you can find me dominating in the gaming world.
 
 
 ## 🌐 Socials:
