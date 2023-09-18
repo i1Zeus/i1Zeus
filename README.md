@@ -1,5 +1,13 @@
 # 💫 About Me:
-ʟᴇᴀʀɴ ᴀꜱ ɪꜰ ʏᴏᴜ'ʟʟ ʟɪᴠᴇ ꜰᴏʀᴇᴠᴇʀ, ʟɪᴠᴇ ᴀꜱ ɪꜰ ʏᴏᴜ'ʟʟ ᴅɪᴇ ᴛᴏᴍᴏʀʀᴏᴡ.</br></br>Making the world a better place, one line of code at a time. When I'm not coding, you can find me dominating in the gaming world.
+
+**Iraqi Developer (👉 ﾟヮﾟ)👉.**
+
+Interested in web development ヾ(•ω•`)o.
+
+I love to learn new things (oﾟvﾟ)ノ.
+
+I love to share my knowledge with others ヾ(＠⌒ ー ⌒＠)ノ.
+</br></br>Making the world a better place, one line of code at a time. When I'm not coding, you can find me dominating in the gaming world.
 
 
 ## 🌐 Socials:
