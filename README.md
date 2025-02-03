@@ -46,9 +46,5 @@ hobbies: ["Gaming", "Coding"]
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i1Zeus&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</div>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83a4d4,100:b6fbff&height=100&section=footer" width="100%" />
 </div>
