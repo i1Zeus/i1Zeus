@@ -43,7 +43,6 @@ hobbies: ["Gaming", "Coding"]
 <div align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=i1Zeus&theme=shadow_blue&hide_border=true" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=i1Zeus&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true" />
-<!--   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i1Zeus&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /> -->
 </div>
 
 <div align="center">
