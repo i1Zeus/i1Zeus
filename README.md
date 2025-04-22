@@ -65,6 +65,35 @@ hobbies: ["Gaming", "Coding"]
   </blockquote>
 </div>
 
+```
+clc
+
+m = input('Number of random numbers?');  
+
+s = input('Seed number');  
+
+n = length(num2str(s));  
+
+if mod(n,2) == 0  
+
+    for i = 1:m  
+        t = num2str(s^2);  
+        while length(t) ~= 2*n  
+            t = ['0', t]; 
+        end
+        a = length(t)/2;  
+        x = str2num(t(a - a/2 + 1 : a + a/2));  
+        s = x;  
+        fprintf('%d %d\n', i, x);  
+    end
+
+else
+    error('Seed number must be even.');  
+end
+
+end
+```
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
