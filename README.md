@@ -39,7 +39,7 @@ hobbies: ["Gaming", "Coding"]
 
 ## 🚀 Technical Arsenal
 
-<img src="https://skillicons.dev/icons?i=html,css,ts,react,vue,nextjs,nuxtjs,laravel,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,ts,react,nextjs,tailwind" />
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgresql,prisma,nestjs" />
 
