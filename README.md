@@ -41,7 +41,7 @@ hobbies: ["Gaming", "Coding"]
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,tailwind,bootstrap" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,java,mysql,postgresql,prisma,nestjs" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,postgresql,prisma,nestjs" />
 
 <img src="https://skillicons.dev/icons?i=git,docker,aws,vscode,figma" />
 
