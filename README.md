@@ -66,32 +66,32 @@ hobbies: ["Gaming", "Coding"]
 </div>
 
 ```
-clc
+clc;
 
-m = input('Number of random numbers?');  
-
-s = input('Seed number');  
+m = input('Number of random numbers? ');  
+s = input('Seed number: ');  
 
 n = length(num2str(s));  
 
-if mod(n,2) == 0  
-
+if mod(n, 2) == 0  
     for i = 1:m  
         t = num2str(s^2);  
-        while length(t) ~= 2*n  
-            t = ['0', t]; 
+
+        if length(t) < 2 * n
+            t = [repmat('0', 1, 2 * n - length(t)), t];  
         end
+
         a = length(t)/2;  
-        x = str2num(t(a - a/2 + 1 : a + a/2));  
+        x = str2double(t(a - n/2 + 1 : a + n/2));  
+
         s = x;  
+
         fprintf('%d %d\n', i, x);  
     end
-
 else
-    error('Seed number must be even.');  
+    error('Seed must have an even number of digits.');  
 end
 
-end
 ```
 
 <div align="center">
