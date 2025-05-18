@@ -5,7 +5,6 @@
   <!-- Animated Coding GIF -->
   <img align="center" width="300" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" alt="Coding Animation"/>
  
-
   <!-- Dynamic Typing Effect -->
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=6FA4FC&center=true&vCenter=true&width=500&lines=Turning+Ideas+Into+Digital+Reality;Crafting+Pixel-Perfect+Experiences;Building+Scalable+Solutions" alt="Typing SVG" />
