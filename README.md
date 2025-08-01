@@ -10,7 +10,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=6FA4FC&center=true&vCenter=true&width=500&lines=Turning+Ideas+Into+Digital+Reality;Crafting+Pixel-Perfect+Experiences;Building+Scalable+Solutions" alt="Typing SVG" />
   </p>
 
-  <!-- Social Links with Hover  Effect -->
+  <!-- Social Links with Hover Effect -->
   <div align="center">
       <a href="https://facebook.com/iZeus01" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
