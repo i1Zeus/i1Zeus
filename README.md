@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hussein+Najah&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full+Stack+Developer&descAlignY=55&descSize=24" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hussein+Najah&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software+Engineer&descAlignY=55&descSize=24" width="100%" />
   
   <!-- Animated Coding GIF -->
   <img align="center" width="300" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" alt="Coding Animation"/>
